@@ -1,9 +1,4 @@
 <!DOCTYPE HTML>
-<!--
-	Read Only by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 	<head>
 		<title>S3897700 - My IT Profile</title>
@@ -12,8 +7,6 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
 	<body class="is-preload">
-
-		<!-- Header -->
 			<section id="header">
 				<header>
 					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
@@ -38,14 +31,8 @@
 					</ul>
 				</footer>
 			</section>
-
-		<!-- Wrapper -->
 			<div id="wrapper">
-
-				<!-- Main -->
 					<div id="main">
-
-						<!-- One -->
 							<section id="one">
 								<div class="image main" data-position="center">
 									<img src="images/banner.jpg" alt="" />
@@ -66,8 +53,6 @@
 <p>I expect to become an experienced developer coming out of this degree than I did coming in, I want to be able to learn all the ins and outs of computer coding, I want to be able to confidently create and run my own programs without fearing for a latent error, my time at RMIT will make all of this possible.</p>
 								</div>
 							</section>
-
-						<!-- Two -->
 							<section id="two">
 								<div class="container">
 									<h3>Video Game Developer</h3>
@@ -85,7 +70,6 @@
 
 <h4>Learning Plan</h4>
 <p>I will use my time in RMIT to gain all of the necessary skills required for my future endeavour into becoming a Senior Game Developer, as well as obtaining new skills which will help drive my motivation towards the future.</p>
-
 									<h3>Here are my key skills!</h3>
 									<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet.</p>
 									<ul class="feature-icons">
@@ -93,12 +77,9 @@
 										<li class="icon solid fa-users">Drive for Teamwork</li>
 										<li class="icon solid fa-cubes">Resourcefulness</li>
 										<li class="icon solid fa-user">Intuitive Character Design</li>
-										
 									</ul>
 								</div>
 							</section>
-
-						<!-- Three -->
 							<section id="three">
 								<div class="container">
 									<h3>A Few Accomplishments</h3>
@@ -128,14 +109,9 @@
 									</div>
 								</div>
 							</section>
-
-						<!-- Four-->
-						<!--
 							<section id="four">
 								<div class="container">
 									<h3>Elements</h3>
-
-									
 										<h4>Text</h4>
 										<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em></p>
 </section>
