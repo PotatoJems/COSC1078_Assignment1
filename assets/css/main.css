@@ -2667,14 +2667,7 @@ input, select, textarea {
 			.features article .image img {
 				display: block;
 				width: 100%;
-				align: centre;
 			}
-		.features article .inner {
-			display: inline-block;
-			vertical-align: middle;
-			width: 50%;
-		}
-
 			.features article .inner > :last-child {
 				margin-bottom: 0;
 			}
